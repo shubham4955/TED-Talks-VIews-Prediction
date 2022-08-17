@@ -4,13 +4,22 @@ A TED talk is a recorded public-speaking presentation that was originally given 
 
 We have Started with data loading and we have done EDA ,feature engineering,data cleaning, target encoding feature selection and then model building.
 So we have used this models:
+
 ●	Ridge Regressor
+
 ●	Lasso Regressor
+
 ●	KNearestNeighbors Regressor
+
 ●	Gradient Boosting Regressor
+
 ●	Random Forest Regressor
+
 ●	Extra Tree Regressor
+
 ●	XGB Regressor
+
+
 As we know, RMSE is more influenced by outliers MAE doesn't increase with outliers.
 MAE is linear and RMSE is quadratically increasing.So, We choosed MAE as a deciding factor for our model.
 We used some sklearn libraries and performed python coding on the data.
